@@ -103,19 +103,3 @@ The built files will be in the `dist/` directory.
 ```bash
 npm run preview
 ```
-
-## Contributing
-
-Contributions are welcome! Feel free to submit issues and pull requests.
-
-## License
-
-This project is open source. Check the LICENSE file for details.
-
-## Support
-
-For issues, questions, or suggestions, please open an issue in the repository.
-
----
-
-**Powered by Groq** - Experience the future of AI inference
